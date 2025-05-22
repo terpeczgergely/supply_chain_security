@@ -8,7 +8,7 @@ on:
   pull_request:
     branches:
       - master
-
+#dummy comment 
 jobs:
   generate-sbom:
     runs-on: ubuntu-latest
